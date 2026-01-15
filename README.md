@@ -75,7 +75,7 @@ Audit-ready for healthcare and defence applications.
 ---
 
 ## 🌐 Portfolio Website
-🔗 https://data-portfolio-atamererkal.vercel.app
+🔗 https://atamererkal.github.io/
 
 ---
 
