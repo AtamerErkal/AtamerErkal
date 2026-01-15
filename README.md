@@ -2,7 +2,7 @@
   <img src="assets/defence_healthcare.png" alt="Atamer Erkal – AI & MLOps Engineer" />
 </p>
 
-<h1 align="center">Hi, I'm Atamer 👋</h1>
+<h1 align="center">Hi, I'm Atamer Erkal</h1>
 <h3 align="center">AI & MLOps Engineer • Specialized in Defence & Healthcare AI</h3>
 
 ---
