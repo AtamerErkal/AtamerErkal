@@ -83,14 +83,18 @@ Audit-ready for healthcare and defence applications.
 - **LinkedIn:** https://linkedin.com/in/atamererkal  
 - **GitHub:** https://github.com/AtamerErkal  
 - **Email:** atamererkal.eu@gmail.com  
-- **Location:** Ulm Region, Germany (Hybrid/Remote)
 
 ---
 
 ## ⭐ Fun Facts
-- Former **NATO Planning Officer** with 15+ years of operational experience  
-- Mentor to 100+ professionals in ML, MLOps, and data engineering  
-- Passionate about **trustworthy AI**, **mission‑critical systems**, and **explainability**
+- Former NATO Planning Officer with 15+ years of operational experience  
+- Transitioned into AI/MLOps engineering through hands-on project leadership and mentoring  
+- Built AI systems for both Defence and Healthcare domains — from threat classification to medical imaging  
+- Fluent in English, German, and Turkish
+- Passionate about explainable, trustworthy AI in regulated environments  
+- Believes in combining tradition and modernity — from artillery systems to neural networks
+
+
 
 ---
 
