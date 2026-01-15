@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github_banner.jpg" alt="Atamer Erkal – AI & MLOps Engineer" />
+  <img src="assets/defence_healthcare.png" alt="Atamer Erkal – AI & MLOps Engineer" />
 </p>
 
 <h1 align="center">Hi, I'm Atamer 👋</h1>
