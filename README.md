@@ -274,7 +274,7 @@ Risk classification templates, technical documentation generators, and bias audi
 </tr>
 <tr>
 <td>🌍</td>
-<td><b>Languages</b> — Turkish (Native) · English (Fluent) · German (B2 – TELC Beruf / 2025)</td>
+<td><b>Languages</b> — Turkish (Native) · English (Fluent) · German (B2 – TELC / 2025)</td>
 </tr>
 </table>
 
