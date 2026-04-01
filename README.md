@@ -126,7 +126,7 @@ GDPR-compliant with **Grad-CAM** visual explainability for clinical trust.
 
 <tr>
 <td width="50%">
-<img src="assets/clinicops.png" alt="ClinicOps — End-to-End MLOps Platform" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+<img src="assets/ClinicOps.png" alt="ClinicOps — End-to-End MLOps Platform" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
 ### 🏥 [ClinicOps — End-to-End MLOps Platform](https://github.com/AtamerErkal/ClinicOps)
 
