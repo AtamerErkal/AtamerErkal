@@ -154,7 +154,7 @@ Extracts diagnoses, medications, symptoms, and relations from unstructured clini
 
 <tr>
 <td width="50%">
-<img src="assets/health-anomaly-detection.png" alt="Health Anomaly Detection" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+<img src="assets/HealthAnomaly.png" alt="Health Anomaly Detection" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
 ### 📊 [Health Anomaly Detection](https://github.com/AtamerErkal/health-anomaly-detection)
 
