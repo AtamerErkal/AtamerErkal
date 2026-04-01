@@ -98,7 +98,7 @@ AI-driven clinical systems designed for real-world medical workflows — from di
 <table>
 <tr>
 <td width="50%">
-<img src="assets/vitalnav(2).png" alt="VitalNav.ai — AI-Powered Pre-Hospital Triage" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+<img src="assets/vitalnav (2).png" alt="VitalNav.ai — AI-Powered Pre-Hospital Triage" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
 ### 🩺 [VitalNav.ai — AI-Powered Pre-Hospital Triage](https://github.com/AtamerErkal/CodeZero)
 
