@@ -175,6 +175,29 @@ Real-time aerial threat classification (**Hostile / Friendly / Civilian**) for N
 </td>
 
 <td width="50%">
+<img src="assets/aegis-cloud.png" alt="AEGIS-Cloud Edge AI" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+
+### ☁️ [AEGIS-Cloud — Edge AI Platform](https://github.com/AtamerErkal/AEGIS-Cloud)
+
+Edge-to-cloud AI deployment for defence applications with TensorRT optimization, real-time inference and cost-aware scaling.  
+NATO-compatible secure deployment.
+
+`TensorRT` `Edge AI` `Docker` `Azure` `Defence`
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<img src="assets/codezero.png" alt="CodeZero" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+
+### ⚙️ [CodeZero](https://github.com/AtamerErkal/CodeZero)
+
+[Proje açıklamasını buraya yaz — örneğin: Secure code execution environment or zero-trust AI inference platform for defence and regulated environments.]
+
+`Python` `Security` `Defence` `AI`
+</td>
+
+<td width="50%">
 <img src="assets/sentinel.png" alt="SENTINEL — Multi-Domain Situational Awareness" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
 ### 🔜 **SENTINEL — Multi-Domain Situational Awareness** *(Coming Soon)*
