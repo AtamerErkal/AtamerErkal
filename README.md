@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/defence_healthcare.png" alt="Atamer Erkal – Healthcare & Defence AI Engineer" width="100%" />
+  <img src="assets/github_banner_v1.png" alt="Atamer Erkal – Healthcare & Defence AI Engineer" width="100%" />
 </p>
 
 <h1 align="center">Atamer Erkal</h1>
