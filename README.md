@@ -98,6 +98,19 @@ AI-driven clinical systems designed for real-world medical workflows — from di
 <table>
 <tr>
 <td width="50%">
+<img src="assets/vitalnav.png" alt="VitalNav.ai — AI-Powered Pre-Hospital Triage" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+
+### 🩺 [VitalNav.ai — AI-Powered Pre-Hospital Triage](https://github.com/AtamerErkal/CodeZero)
+
+Voice-first AI platform that connects patients to hospitals in real-time using voice input in any language and delivers live patient data to ER staff before arrival.  
+Supports 440+ hospitals with GDPR-compliant design and condition-specific clinical protocols.
+
+`Azure OpenAI` `GPT-4` `RAG` `Azure Speech` `FastAPI` `GDPR`
+
+[GitHub](https://github.com/AtamerErkal/CodeZero)
+</td>
+
+<td width="50%">
 <img src="assets/skinxai.png" alt="SkinxAI — Medical Imaging Classifier" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
 ### ⚕️ [SkinxAI — Medical Imaging Classifier](https://github.com/AtamerErkal/skin-lesion-classifier)
@@ -109,7 +122,9 @@ GDPR-compliant with **Grad-CAM** visual explainability for clinical trust.
 
 [GitHub](https://github.com/AtamerErkal/skin-lesion-classifier) · [Live Demo](https://skinxai.streamlit.app/)
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 <img src="assets/clinicops.png" alt="ClinicOps — End-to-End MLOps Platform" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
@@ -122,9 +137,7 @@ MLflow tracking, DVC versioning, Docker, CI/CD, and real-time drift detection.
 
 [GitHub](https://github.com/AtamerErkal/ClinicOps)
 </td>
-</tr>
 
-<tr>
 <td width="50%">
 <img src="assets/azure-healthcare-nlp.png" alt="Azure Healthcare NLP Analyzer" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
@@ -137,7 +150,9 @@ Extracts diagnoses, medications, symptoms, and relations from unstructured clini
 
 [GitHub](https://github.com/AtamerErkal/azure-healthcare-nlp-analyzer)
 </td>
+</tr>
 
+<tr>
 <td width="50%">
 <img src="assets/health-anomaly-detection.png" alt="Health Anomaly Detection" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
@@ -150,6 +165,7 @@ Designed for early warning in healthcare operations.
 
 [GitHub](https://github.com/AtamerErkal/health-anomaly-detection)
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
@@ -162,6 +178,19 @@ Mission-critical AI for NATO-compatible command & control and threat assessment.
 <table>
 <tr>
 <td width="50%">
+<img src="assets/aegis-cloud.png" alt="AEGIS-Cloud Edge AI" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+
+### ☁️ [AEGIS-Cloud — Edge AI Platform](https://github.com/AtamerErkal/AEGIS-Cloud)
+
+Heterogeneous AIOps framework for autonomous Counter-UAS and UAV operations in resource-constrained edge environments (SWaP-C).  
+Features TensorRT-optimized perception and tactical Vision-Language reasoning with EU AI Act compliance.
+
+`TensorRT` `YOLOv8` `NVIDIA Jetson` `Moondream VLM` `Azure IoT` `EU AI Act`
+
+[GitHub](https://github.com/AtamerErkal/AEGIS-Cloud)
+</td>
+
+<td width="50%">
 <img src="assets/vanguard.png" alt="VANGUARD — Air Track Classification" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
 ### 🎯 [VANGUARD — Air Track Classification](https://github.com/AtamerErkal/VANGUARD_Project)
@@ -173,30 +202,9 @@ Real-time aerial threat classification (**Hostile / Friendly / Civilian**) for N
 
 [GitHub](https://github.com/AtamerErkal/VANGUARD_Project) · [Live Demo](https://vanguard-ai.streamlit.app/)
 </td>
-
-<td width="50%">
-<img src="assets/aegis-cloud.png" alt="AEGIS-Cloud Edge AI" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
-
-### ☁️ [AEGIS-Cloud — Edge AI Platform](https://github.com/AtamerErkal/AEGIS-Cloud)
-
-Edge-to-cloud AI deployment for defence applications with TensorRT optimization, real-time inference and cost-aware scaling.  
-NATO-compatible secure deployment.
-
-`TensorRT` `Edge AI` `Docker` `Azure` `Defence`
-</td>
 </tr>
 
 <tr>
-<td width="50%">
-<img src="assets/codezero.png" alt="CodeZero" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
-
-### ⚙️ [CodeZero](https://github.com/AtamerErkal/CodeZero)
-
-[Proje açıklamasını buraya yaz — örneğin: Secure code execution environment or zero-trust AI inference platform for defence and regulated environments.]
-
-`Python` `Security` `Defence` `AI`
-</td>
-
 <td width="50%">
 <img src="assets/sentinel.png" alt="SENTINEL — Multi-Domain Situational Awareness" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
@@ -207,6 +215,7 @@ NATO STANAG-referenced data formats with human-in-the-loop decision support.
 
 `Sensor Fusion` `Multi-Domain Ops` `Real-Time AI`
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
