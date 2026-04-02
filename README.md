@@ -256,7 +256,7 @@ Detecting harmful content across text and images for responsible AI deployment.
 
 <tr>
 <td width="50%">
-<img src="assets/echobreaker.png" alt="EchoBreaker — Cognitive Bias Detection" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
+<img src="assets/EchoBreaker.png" alt="EchoBreaker — Cognitive Bias Detection" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
 ### 🧠 [EchoBreaker — Cognitive Bias Detection](https://github.com/AtamerErkal/EchoBreaker)
 
