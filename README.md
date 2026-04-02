@@ -156,14 +156,13 @@ Extracts diagnoses, medications, symptoms, and relations from unstructured clini
 <td width="50%">
 <img src="assets/HealthAnomaly.png" alt="Health Anomaly Detection" width="100%" style="border-radius: 8px; margin-bottom: 15px;" />
 
-### 🔜 **Health Anomaly Detection** *Coming Soon* (https://github.com/AtamerErkal/health-anomaly-detection)
+### 🔜 **Health Anomaly Detection** *Coming Soon*
 
 Anomaly detection system for clinical health metrics and patient monitoring data.  
 Designed for early warning in healthcare operations.
 
 `Anomaly Detection` `Healthcare` `Python`
 
-[GitHub](https://github.com/AtamerErkal/health-anomaly-detection)
 </td>
 <td width="50%"></td>
 </tr>
