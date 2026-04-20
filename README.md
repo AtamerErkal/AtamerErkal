@@ -120,7 +120,7 @@ GDPR-compliant with **Grad-CAM** visual explainability for clinical trust.
 
 `PyTorch` `EfficientNet-B7` `Grad-CAM` `GDPR`
 
-[GitHub](https://github.com/AtamerErkal/skin-lesion-classifier) · [Live Demo](https://skinxai.streamlit.app/)
+[GitHub](https://github.com/AtamerErkal/skin-lesion-classifier) · [Live Demo](https://skin-lesion-classifier-two.vercel.app/)
 </td>
 </tr>
 
