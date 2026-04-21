@@ -199,7 +199,7 @@ Real-time aerial threat classification (**Hostile / Friendly / Civilian**) for N
 
 `Python` `XGBoost` `3D Visualization` `Defence AI`
 
-[GitHub](https://github.com/AtamerErkal/VANGUARD_Project) · [Live Demo](https://vanguard-ai.streamlit.app/)
+[GitHub](https://github.com/AtamerErkal/VANGUARD_Project) · [Live Demo](https://atamererkalai-vanguard-ai.hf.space/)
 </td>
 </tr>
 
