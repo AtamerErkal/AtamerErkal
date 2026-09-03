@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Atamer Erkal</h1>
-<h3 align="center">Healthcare & Defence AI Engineer · Former NATO Planning Officer · Azure AI (AI-102 · Apr 2026)</h3>
+<h3 align="center">Healthcare & Defence AI Engineer · Former NATO Planning Officer · Agentic AI Architect (AB-100 · Oct 2026)</h3>
 
 <p align="center">
   Building production-grade AI systems for regulated, safety-critical domains<br/>
@@ -31,7 +31,7 @@
 I design end-to-end ML pipelines for **medical imaging**, **clinical decision support**, **threat classification**, and **multi-domain situational awareness** — always with a focus on **explainability**, **EU AI Act compliance**, and **GDPR-aware** data handling.
 
 > *15+ years in safety-critical & regulated environments · Former Joint Planner at NATO ·  
-> Program Director who trained 200+ data scientists with 90% placement rate · Azure AI Engineer (AI-102 · Apr 2026)*
+> Program Director who trained 100+ data scientists with 90% placement rate · Preparing for AB-100 Agentic AI Business Solutions Architect (Oct 2026)*
 
 ---
 
@@ -53,7 +53,7 @@ I design end-to-end ML pipelines for **medical imaging**, **clinical decision su
 <td><b>MLOps / Cloud</b></td>
 <td>
   <img src="https://img.shields.io/badge/Azure_ML-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_AI--102-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AI_Services-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -295,7 +295,7 @@ Risk classification templates, technical documentation generators, and bias audi
 </tr>
 <tr>
 <td>☁️</td>
-<td><b>Azure AI Engineer</b> — AI-102 certification scheduled April 2026 · Production experience with Azure ML, Azure AI Language, and Azure Content Safety</td>
+<td><b>Azure AI Practitioner</b> — AB-100 exam scheduled October 2026 · Production experience with Azure ML, Azure AI Language, and Azure Content Safety</td>
 </tr>
 <tr>
 <td>🎓</td>
